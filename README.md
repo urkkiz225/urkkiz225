@@ -16,17 +16,10 @@ Most of my work is in private repositories.
 <pre>
 
 
-▓▓  ▓▓  ▓▓
-▒▒  ▒▒  ▒▒
-▓▓ ░░░░▒▒░░░░ ▓▓
-▒▒     ▒▒     ▒▒
-░░░░░▒▒▒▒▒▒░░░░░
-▒▒
-▓▓▒░░▒▒░░▒▓▓
-▒▒  ▒▒
-▒▒    ▒▒
-▒▒    ▒▒
-▒▒▒▒
+waahhh!!
+woah!
+wee!
+wack.
 
 </pre>
 </div>
